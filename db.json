@@ -1,0 +1,117 @@
+{
+  "seller": [
+    {
+      "id": 1,
+      "name": "Ayush",
+      "email": "ayush@test.com",
+      "password": "ayush123"
+    },
+    {
+      "name": "Ayush Sharma",
+      "email": "ayushsharma@gmail.com",
+      "password": "ayush111",
+      "id": 2
+    },
+    {
+      "name": "Yash",
+      "email": "yash@test.com",
+      "password": "yash111",
+      "id": 3
+    },
+    {
+      "name": "Ayush Sharma",
+      "email": "ayushsharma@gmail.com",
+      "password": "ayush123",
+      "id": 4
+    },
+    {
+      "name": "Mark",
+      "email": "mark@email.com",
+      "password": "mark",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "I phone 14 Pro",
+      "price": "100999",
+      "category": "mobile",
+      "color": "Purple",
+      "description": "An Apple Product",
+      "image": "https://piunikaweb.com/wp-content/uploads/2022/10/Untitled-design-2022-10-04T185641.251.jpg",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "60000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "I phone 13 Pro",
+      "price": "90999",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "An Apple Product",
+      "image": "https://www.lifewire.com/thmb/GBT5iWzqF6trGAHguPQrNneMTyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/iPhone12ProandiPhone12ProMaxIsoviewlarge-3e1e4eba5893466499332d5835f5a466.jpg",
+      "id": 1
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "7000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://rukminim1.flixcart.com/image/850/1000/xif0q/jean/p/a/e/32-36087-0603-levi-s-original-imagj6wwhknv6dqu.jpeg?q=90",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "999",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "Car",
+      "price": "999",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://5.imimg.com/data5/RA/HF/MY-3473550/electrical-baby-toy-car.jpg",
+      "id": 7
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Rayban Sunglasses",
+      "price": "5000",
+      "category": "Sunglasses",
+      "color": "Black",
+      "description": "Protects the eyes form UV rays and sunlight.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6rx-lW001fM28k2oCHbObeAJ0O2J7t3mXw&usqp=CAU",
+      "id": 8
+    }
+  ]
+}
